@@ -1,1 +1,1 @@
-# mips
+# assembly
